@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/engineer/engineer_red_gib"
+	"$surfaceprop"	"flesh"
+	"$bumpmap" "models\player\engineer\engineer_normal"
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$halflambert" "1"
+	
+	// Rim lighting parameters
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}
